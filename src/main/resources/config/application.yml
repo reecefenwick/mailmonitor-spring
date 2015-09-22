@@ -1,0 +1,22 @@
+multipart:
+    maxFileSize: 1024MB
+    maxRequestSize: 1024MB
+
+mail:
+    host: localhost
+    port: 25
+    username:
+    password:
+    protocol: smtp
+    tls: false
+    auth: false
+    from: easyshare@suncorp.com.au
+
+swagger:
+    title: Mailbox Monitor API
+    description: Mailbox Monitor API Interface Documentation
+    version: 1.0.0
+    termsOfServiceUrl:
+    contact:
+    license:
+    licenseUrl:
